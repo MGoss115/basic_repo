@@ -1,0 +1,11 @@
+Add repository on my person GitHub
+Named it basic_repo
+Selected to add .gitingore file and ReadMe
+Made it public
+Copied the local HTTPS and cloned it to my desktop
+In the terminal I used cd into basic_repo and made a touch index.html file
+Did code . To open VS code on my desktop
+Made a few changes to the index.html file
+Git add .
+Git commit -m
+Git push
